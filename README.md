@@ -1,5 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Artyom 👋
+I'm a student majoring in Computer Science.
+## 📫 Contact Info
+- Email: [doftmoon@proton.me](mailto:doftmoon@proton.me)
+- Discord: @doftmoon
 
+## ⚙️ Languages, Frameworks and Tools
+- HTML
+- CSS
+- JavaScript - [React](https://react.dev/), [Redux](https://redux.js.org/)
+- C++
+- [C#](https://github.com/doftmoon/3s-OOP)
+- T-SQL - (DB-engine: SQL Server)
 <!--
 **doftmoon/doftmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
