@@ -8,9 +8,9 @@ I'm a student majoring in Computer Science.
 - HTML
 - CSS
 - JavaScript - [React](https://react.dev/), [Redux](https://redux.js.org/)
-- C++
+- C++ (basics)
 - [C#](https://github.com/doftmoon/3s-OOP)
-- T-SQL - (DB-engine: SQL Server)
+- SQL - (SQL Server, OracleDB)
 <!--
 **doftmoon/doftmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
